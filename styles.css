@@ -1,0 +1,19 @@
+/** This is a comment that the browser will ignore,
+* Put your CSS code into this file
+*/
+/* Hello! This is my first Stylesheet */
+
+h1 {
+   /** "color" changes the color of the font*/
+  color: red;
+  /* "font-size" changes the size of the font (text) */
+  font-size: 24px;
+  /* I found this option on Google. It makes all letters go uppercase */
+  text-transform: uppercase;
+}
+
+/*
+Thank You!
+
+Agris
+*/
